@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://scontent.fceb1-2.fna.fbcdn.net/v/t39.30808-6/414832878_377716234833644_7249531769496031911_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeET_8_tSofw7f7Mzr1VgJsiVxBvB4DpKMRXEG8HgOkoxIhtl3ka6vKtv3HNcBCAHN8jIPls1s7Y2cDkLSyY48oX&_nc_ohc=9UlzM7dOWTgAX_ozVgk&_nc_zt=23&_nc_ht=scontent.fceb1-2.fna&oh=00_AfDqncDeA-VEMdZ8C6mZeJxrSD-FurCMIacnleo3CiBAsA&oe=65BAC278",
+    "name": "Mayo",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://avatars.githubusercontent.com/u/132538127?v=4",
+    "name": "Jie",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://scontent.fceb1-1.fna.fbcdn.net/v/t1.18169-9/14344229_1290361594310103_4040790949381163250_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGl6v5iRrudWlBvrWVvU5st_3nW-faziqv_edb59rOKq9Awr9VFqT5dR2e_VNgroVsqUwA0UinuvQ0lo22iHwMT&_nc_ohc=9HJlOuCc4hMAX-h3TcT&_nc_ht=scontent.fceb1-1.fna&oh=00_AfCJaBgHKHn6HL_Ytyeb2chQhkJ1cVwzA0ATY6_6aRotYQ&oe=65DCB1D2",
+    "name": "Jed",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://scontent.fceb1-1.fna.fbcdn.net/v/t39.30808-6/359821444_145490308566219_8605805275547390241_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFmGTN3ZxKj-xg24mt6fL-bfJW5kJThQIp8lbmQlOFAirkDM-DHT6pWRsariNHzl-Ruvlk65WSYbWAVgSSCL8y3&_nc_ohc=Ph_6Rm8r1wUAX-GEAwb&_nc_zt=23&_nc_ht=scontent.fceb1-1.fna&oh=00_AfBWc7czUtN-iD1okRB8UXpgg7uqt48-vcrPufgohxSEwQ&oe=65BB08BA",
+    "name": "Tine",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://scontent.fceb1-1.fna.fbcdn.net/v/t39.30808-6/371343181_1725875731167845_2370929413765967997_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeG5rjBpMcKoYta4YxtGrgJjHnl4rdKl8KseeXit0qXwq1mucoMaSZwg9fTu6BEl3MVhvS2oOmyt8McB8JtWKsxH&_nc_ohc=6qrC210Ph9UAX9vrvBP&_nc_zt=23&_nc_ht=scontent.fceb1-1.fna&oh=00_AfD-rH3AYz4YmfsyjDgMUAumyBXDX1-dgT0zCQ1WPZICaQ&oe=65BA1A0B",
+    "name": "Cleece",
+    "isOnline": false,
+    "id": 1284
+  }
+]

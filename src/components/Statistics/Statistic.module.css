@@ -1,0 +1,63 @@
+.statistics {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.title {
+    width: fit-content;
+    background-color: #fff;
+    align-self: center;
+    padding: 30px 48px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    box-shadow: 0px 1px 2px #0009;
+}
+
+.statslist {
+    flex-wrap: wrap;
+    display: inline-flex;
+    box-shadow: 1px 1px 2px #0009;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 5px 10px 10px;
+    color: #fff;
+}
+
+.item:nth-child(n+1){
+    background-color: blueviolet;
+}
+
+.item:nth-child(n+2) {
+    background-color: firebrick;
+}
+
+.item:nth-child(n+3) {
+    background-color: cadetblue;
+}
+
+.item:nth-child(n+4) {
+    background-color: gold;
+}
+
+.item:nth-child(n+5) {
+    background-color: peru;
+}
+
+.label {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.percentage {
+    font-size: 20px;
+    font-weight: 500;
+}

@@ -1,0 +1,17 @@
+.transaction-history {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 400;
+    border-collapse: collapse;
+    margin: 0 auto ;
+    overflow-y: auto;
+}
+
+
+.transaction-history th{
+    padding: 0 40px;
+}
+
+.transaction-history tr:nth-child(even){
+    background-color: antiquewhite;
+}
