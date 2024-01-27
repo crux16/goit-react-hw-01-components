@@ -1,0 +1,51 @@
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.avatar {
+    border-radius: 50%;
+    background-color: tomato;
+    overflow: hidden;
+    width: 150px;
+}
+
+.name {
+    font-size: large;
+}
+
+.tag {
+    font-size: 12px;
+}
+
+.location {
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+.stats {
+    display: flex;
+    padding: 0;
+    gap: 5px;
+    list-style-type: none;
+}
+
+.label {
+    font-weight: 700;
+    border-bottom: 1px solid #000;
+}
+
+.quantity {
+    font-weight: 500;
+}
